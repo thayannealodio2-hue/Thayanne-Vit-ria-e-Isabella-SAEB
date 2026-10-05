@@ -1,0 +1,19 @@
+==================================================
+DADOS DE ACESSO AO SISTEMA - LOCADORA DE VEÍCULOS
+==================================================
+
+Abaixo estão as credenciais para teste do sistema.
+A palavra-passe é idêntica para todas as contas cadastradas.
+
+--------------------------------------------------
+1. ADMINISTRADOR
+E-mail: admin@locadora.com
+Senha:  123456
+
+2. ATENDENTE
+E-mail: atendente1@locadora.com
+Senha:  123456
+
+3. GERENTE
+E-mail: gerente@locadora.com
+Senha:  123456
